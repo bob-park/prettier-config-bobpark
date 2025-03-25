@@ -1,6 +1,6 @@
 {
   "name": "@bob-park/prettier-config-bobpark",
-  "version": "0.1.0-RC1-2024-0212",
+  "version": "0.1.0-RC1-2024-0325",
   "main": "index.js",
   "license": "MIT",
   "files": [
@@ -13,7 +13,7 @@
     "prettier-plugin-tailwindcss": "^0.6.6"
   },
   "peerDependencies": {
-    "eslint": ">= 8",
+    "eslint": ">= 8 < 9",
     "typescript": ">= 5"
   },
   "publishConfig": {

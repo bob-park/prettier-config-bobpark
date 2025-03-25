@@ -171,7 +171,7 @@ __metadata:
     prettier: "npm:^3.3.3"
     prettier-plugin-tailwindcss: "npm:^0.6.6"
   peerDependencies:
-    eslint: ">= 8"
+    eslint: ">= 8 < 9"
     typescript: ">= 5"
   languageName: unknown
   linkType: soft
