@@ -9,6 +9,7 @@ module.exports = {
   "useTabs": false,
   "importOrder": [
     '^react$',
+    '^react-react/(.*$)',
     '^react-icons/(.*$)',
     "^next$",
     "^next/(.*)$",
