@@ -1,6 +1,6 @@
 {
   "name": "@bob-park/prettier-config-bobpark",
-  "version": "0.1.0-RC1-2024-0325",
+  "version": "0.2.0-RC1-2025-0524",
   "main": "index.js",
   "license": "MIT",
   "files": [
