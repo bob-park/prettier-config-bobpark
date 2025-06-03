@@ -168,6 +168,7 @@ __metadata:
   dependencies:
     "@trivago/prettier-plugin-sort-imports": "npm:^4.3.0"
     eslint-plugin-prettier: "npm:^5.2.1"
+    npm-check-updates: "npm:^18.0.1"
     prettier: "npm:^3.3.3"
     prettier-plugin-tailwindcss: "npm:^0.6.6"
   peerDependencies:
@@ -375,6 +376,16 @@ __metadata:
   version: 2.1.2
   resolution: "ms@npm:2.1.2"
   checksum: 10c0/a437714e2f90dbf881b5191d35a6db792efbca5badf112f87b9e1c712aace4b4b9b742dd6537f3edf90fd6f684de897cec230abde57e87883766712ddda297cc
+  languageName: node
+  linkType: hard
+
+"npm-check-updates@npm:^18.0.1":
+  version: 18.0.1
+  resolution: "npm-check-updates@npm:18.0.1"
+  bin:
+    ncu: build/cli.js
+    npm-check-updates: build/cli.js
+  checksum: 10c0/0f4f8c26e8a51a413ee724fe76f0860bd360e0c096a52e928916ef6fe3ff0c2ea0f346ca8d291a43f46a269d05450e2a879fed8aa11871f73970d5f9dfdd162a
   languageName: node
   linkType: hard
 

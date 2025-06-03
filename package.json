@@ -1,6 +1,6 @@
 {
   "name": "@bob-park/prettier-config-bobpark",
-  "version": "0.2.0-RC1-2025-0524",
+  "version": "0.2.1-RC4-2025-0603",
   "main": "index.js",
   "license": "MIT",
   "files": [
@@ -19,5 +19,8 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.9.1",
+  "devDependencies": {
+    "npm-check-updates": "^18.0.1"
+  }
 }
