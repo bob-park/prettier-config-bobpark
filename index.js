@@ -9,13 +9,14 @@ module.exports = {
   "useTabs": false,
   "importOrder": [
     "^react$",
-    "^react-native$",
+    "^react-native(.*)$",
     "^@react-(.*$)",
     "^react-icons/(.*$)",
     "^next$",
     "^next/(.*$)",
     "^expo-(.*$)",
     "^@expo/(.*$)",
+    "^@tanstack/(.*$)",
     "^@/(.*$)",
     "<THIRD_PARTY_MODULES>",
     "^[./]"
