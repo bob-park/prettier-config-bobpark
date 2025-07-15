@@ -1,30 +1,31 @@
 module.exports = {
-  "printWidth": 120,
-  "semi": true,
-  "singleQuote": true,
-  "trailingComma": "all",
-  "tabWidth": 2,
-  "bracketSpacing": true,
-  "endOfLine": "auto",
-  "useTabs": false,
-  "importOrder": [
-    "^react$",
-    "^react-native(.*)$",
-    "^@react-(.*$)",
-    "^react-icons/(.*$)",
-    "^next$",
-    "^next/(.*$)",
-    "^expo-(.*$)",
-    "^@expo/(.*$)",
-    "^@tanstack/(.*$)",
-    "^@/(.*$)",
-    "<THIRD_PARTY_MODULES>",
-    "^[./]"
-  ],
-  "importOrderSeparation": true,
-  "importOrderSortSpecifiers": true,
-  "plugins": [
-    "@trivago/prettier-plugin-sort-imports",
-    "prettier-plugin-tailwindcss"
-  ]
+    "printWidth": 120,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "bracketSpacing": true,
+    "endOfLine": "auto",
+    "useTabs": false,
+    "importOrder": [
+        "^react$",
+        "^react-native(.*)$",
+        "^@react-(.*$)",
+        "^react-icons/(.*$)",
+        "^next$",
+        "^next/(.*$)",
+        "^expo-(.*$)",
+        "^@expo/(.*$)",
+        "^@tanstack/(.*$)",
+        "^@bob-park/(.*$)",
+        "^@/(.*$)",
+        "<THIRD_PARTY_MODULES>",
+        "^[./]"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true,
+    "plugins": [
+        "@trivago/prettier-plugin-sort-imports",
+        "prettier-plugin-tailwindcss"
+    ]
 }
