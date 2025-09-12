@@ -1,6 +1,6 @@
 {
   "name": "@bob-park/prettier-config-bobpark",
-  "version": "0.3.1-RC1-20250716",
+  "version": "0.3.1-RC1-20250912",
   "main": "index.js",
   "license": "MIT",
   "files": [
@@ -8,17 +8,17 @@
   ],
   "dependencies": {
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
-    "eslint-plugin-prettier": "^5.5.1",
+    "eslint-plugin-prettier": "^5.5.4",
     "prettier": "^3.6.2",
     "prettier-plugin-tailwindcss": "^0.6.14"
   },
   "peerDependencies": {
     "eslint": ">= 9",
-    "typescript": ">= 5",
-    "pretter": ">= 3"
+    "pretter": ">= 3",
+    "typescript": ">= 5"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.9.4"
 }
