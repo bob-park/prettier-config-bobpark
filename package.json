@@ -14,7 +14,7 @@
   },
   "peerDependencies": {
     "eslint": ">= 9",
-    "pretter": ">= 3",
+    "prettier": ">= 3",
     "typescript": ">= 5"
   },
   "publishConfig": {
