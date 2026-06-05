@@ -42,4 +42,6 @@ next-env.d.ts
 # project
 *.idea
 .yarnrc*
+!.yarnrc.yml
 .pnp*
+
