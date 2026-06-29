@@ -1,6 +1,6 @@
 {
   "name": "@bob-park/prettier-config-bobpark",
-  "version": "0.4.0-RC1-20260630",
+  "version": "0.4.0-RC4-20260630",
   "main": "index.js",
   "license": "MIT",
   "files": [
@@ -14,8 +14,7 @@
   },
   "peerDependencies": {
     "eslint": ">= 9",
-    "prettier": ">= 3",
-    "typescript": ">= 6"
+    "prettier": ">= 3"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

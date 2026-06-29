@@ -156,7 +156,6 @@ __metadata:
   peerDependencies:
     eslint: ">= 9"
     prettier: ">= 3"
-    typescript: ">= 6"
   languageName: unknown
   linkType: soft
 
